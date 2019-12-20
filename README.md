@@ -5,6 +5,14 @@
 
 [Latest Release](https://github.com/Gridonyx/Write.-Releases/releases/latest)
 
+## Features
+- Simple dark interface
+- Word, character, and unique word counts
+- Portable (no install necessary)
 
 ## Screenshots
 ![Write. UI](/Screenshots/Write_UI.png?raw=true "Write. UI")
+
+## Future plans
+- [ ] Light and Dark themes
+- [ ] Spellcheck
