@@ -4,3 +4,7 @@
 
 
 [Latest Release](https://github.com/Gridonyx/Write.-Releases/releases/latest)
+
+
+## Screenshots
+![Write. UI](/Screenshots/Write_UI.png?raw=true "Write. UI")
